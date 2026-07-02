@@ -1,12 +1,29 @@
-.cabecalho {
-    background-color: #dc0bef;
-    color: #60c057;
+.cabecalho{
+    background-color: #ef0b0b;
+    color: hsl(221, 100%, 50%);
     text-align:center;
-    max-width: 800px;
-
+    max-width: 2000px;;
 }
 
-.conteudo-principal {
-    background-color: #91ff00;
-    color: #c70be0;
+.conteudo-principal{
+    background-color: #006eff;
+    color: #010201;
+}
+
+
+.imagem-principal{
+    width: 80px;
+    height: 80px;
+}
+.cabecalho-paragrafo{
+    font-weight: bold;
+}
+
+.cabecalho-autor{
+    font-width: bold;
+    text-decoration: italic;
+}
+
+.conteudo-pricipal-texto{
+    font-weight: bold;
 }
