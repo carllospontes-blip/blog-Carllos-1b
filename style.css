@@ -1,4 +1,4 @@
-.cabecalho{
+.cabecalho {
     background-color: #ef0b0b;
     color: #060c18;
     text-align:center;
@@ -7,7 +7,7 @@
     padding: 16px;
 }
 
-.conteudo-principal{
+.conteudo-principal {
     background-color: #006eff;
     color: #010201;
     max-width:800px;
@@ -15,20 +15,20 @@
     padding: 16px;
 }
 
-.imagem-principal{
+.imagem-principal {
     width: 90px;
     height: 90px;
 }
 
-.cabecalho-paragrafo{
+.cabecalho-paragrafo {
     font-weight: bold;
 }
 
-.cabecalho-autor{
+.cabecalho-autor {
     font-width: bold;
     text-decoration: italic;
 }
 
-.conteudo-pricipal-texto{
+.conteudo-pricipal-texto {
     font-weight: bold;
 }
